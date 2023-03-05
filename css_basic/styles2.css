@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    border: 2px solid;
+}
+
+#box1{
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    background: lightblue;
+
+    padding: 30px;
+
+    margin-left: 10%; 
+    margin-bottom: 20px;
+    
+}
+
+#box2{
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    background: lightcoral;
+
+    padding: 30px;
+
+    margin-left: 50px;
+}

@@ -1,0 +1,42 @@
+body{
+   background-image: url('sc.png');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover; 
+   background-attachment: fixed;
+
+}
+
+h1{
+    border-top-style: solid;
+    border-bottom-style: dashed;
+    border-left-style: dotted;
+    border-left-width: 8px;
+    padding: 10px;
+
+    background: linear-gradient(to left, lightgreen, lightblue);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    
+}
+
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20;
+    font-weight: bold;
+    text-decoration:underline;
+    color: blue;
+
+
+    border-style: solid;
+    padding: 5px;
+    border-color: gold;
+    border-width: 5px;
+    border-radius: 10px;
+
+    background: linear-gradient(to right, lightgreen, lightblue);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
